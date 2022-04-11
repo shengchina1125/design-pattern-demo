@@ -1,4 +1,4 @@
-package com.xulp.factory.simplefactory;
+package com.xulp.factory.simplefactory.test;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
