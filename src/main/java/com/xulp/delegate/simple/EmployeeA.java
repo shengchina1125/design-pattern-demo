@@ -10,6 +10,6 @@ import java.text.MessageFormat;
 public class EmployeeA implements IEmployee {
     @Override
     public void doing(String command) {
-        System.out.println(MessageFormat.format("我是员工A，我开始干活了，擅长{0}，执行{1}...", command, command));
+        System.out.println(MessageFormat.format("我是员工A，我开始干活了，擅长加密，执行{0}...", command));
     }
 }
