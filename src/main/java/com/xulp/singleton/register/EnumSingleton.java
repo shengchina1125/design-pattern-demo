@@ -4,7 +4,7 @@ package com.xulp.singleton.register;
  * @author xulp
  * @version v1.0.0
  * @Date 2022/4/11 17:29
- * @Description 单例模式：枚举式
+ * @Description 单例模式：枚举式单例
  * EnumSingleton
  * Modification History:
  * Date Author Version Description
