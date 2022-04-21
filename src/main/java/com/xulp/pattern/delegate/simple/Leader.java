@@ -14,9 +14,9 @@ public class Leader {
 
     public Leader() {
         register.put("加密", new EmployeeA());
-        register.put("架构", new EmployeeB());
+        register.put("登录", new EmployeeB());
     }
-
+    // 项目经理自己不干活
     public void doing(String command) {
         register.get(command).doing(command);
     }

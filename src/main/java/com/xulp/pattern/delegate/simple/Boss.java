@@ -7,7 +7,7 @@ package com.xulp.pattern.delegate.simple;
  */
 public class Boss {
 
-    public void doing(String command, Leader leader) {
+    public void command(String command, Leader leader) {
         leader.doing(command);
     }
 }

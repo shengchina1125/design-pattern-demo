@@ -1,6 +1,5 @@
 package com.xulp.pattern.factory.abstractfactory;
 
-import com.xulp.factory.bean.*;
 import com.xulp.pattern.factory.bean.BenzCar;
 import com.xulp.pattern.factory.bean.BenzCarLogo;
 import com.xulp.pattern.factory.bean.ICar;
