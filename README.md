@@ -1,2 +1,2 @@
-# design-mode-demo
-设计模式demo
+# design-pattern-demo
+设计模式演示
