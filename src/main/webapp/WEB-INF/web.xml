@@ -9,7 +9,7 @@
 
     <servlet>
         <servlet-name>delegateServlet</servlet-name>
-        <servlet-class>com.xulp.delegate.mvc.DispatchServlet</servlet-class>
+        <servlet-class>com.xulp.pattern.delegate.mvc.DispatchServlet</servlet-class>
         <load-on-startup>1</load-on-startup>
     </servlet>
     <servlet-mapping>

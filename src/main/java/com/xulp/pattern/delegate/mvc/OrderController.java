@@ -1,0 +1,20 @@
+package com.xulp.pattern.delegate.mvc;
+
+/**
+ * @author xulp
+ * @version v1.0.0
+ * @Date 2022/4/21 10:18
+ * @Description ---
+ * OrderController
+ * Modification History:
+ * Date Author Version Description
+ * ---------------------------------------------------------------------------------*
+ * 2022/4/21 10:18 xulp v1.0.0 Created
+ */
+public class OrderController {
+
+    public void getOrderById(String mid) {
+
+    }
+
+}
