@@ -31,6 +31,7 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+
         <!-- requied start -->
         <dependency>
             <groupId>javax.servlet</groupId>
@@ -38,6 +39,12 @@
             <version>${servlet.api.version}</version>
             <scope>provided</scope>
         </dependency>
+
+        <dependency>
+            <groupId>org.mybatis</groupId>
+            <artifactId>mybatis</artifactId>
+        </dependency>
+
     </dependencies>
 
     <build>
