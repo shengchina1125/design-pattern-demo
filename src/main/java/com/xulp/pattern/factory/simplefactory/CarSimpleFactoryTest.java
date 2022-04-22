@@ -1,4 +1,4 @@
-package com.xulp.pattern.factory.simplefactory.test;
+package com.xulp.pattern.factory.simplefactory;
 
 import com.xulp.pattern.factory.bean.AudiCar;
 import com.xulp.pattern.factory.bean.BenzCar;
