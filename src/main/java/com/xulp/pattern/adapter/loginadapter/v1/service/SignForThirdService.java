@@ -39,7 +39,7 @@ public class SignForThirdService extends SignService {
     }
 
     public ResultMsg loginForRegist(String username,String password){
-        super.regist(username,null);
+        super.register(username,null);
         return super.login(username,null);
     }
 
